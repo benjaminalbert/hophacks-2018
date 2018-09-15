@@ -12,8 +12,7 @@ To calculate safety of a route, every point on the route is scored based on the 
 Data was acquired from https://catalog.data.gov/dataset/bpd-arrests-4f2eb and published by https://catalog.data.gov/dataset?publisher=data.baltimorecity.gov
 
 Team members:
-Giovanna Lemos Ribeiro
-Benjamin Albert
+Giovanna Lemos Ribeiro & Benjamin Albert
 
 ## Usage
 1. Execute the python script: crime_map.py
