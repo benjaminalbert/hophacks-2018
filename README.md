@@ -11,14 +11,14 @@ To calculate safety of a route, every point on the route is scored based on the 
 
 Data was acquired from https://catalog.data.gov/dataset/bpd-arrests-4f2eb and published by https://catalog.data.gov/dataset?publisher=data.baltimorecity.gov
 
-Awards:
-Best use of open data
-
-Team members:
-Giovanna Lemos Ribeiro & Benjamin Albert
-
 ## Usage
 1. Execute the python script: crime_map.py
 2. When prompted, select the baltimore_city_crime_data.csv file
 3. Either enter custom coordinates or select preset destinations for source and destination addresses
 4. Click "Go" to view the directions with an accompanying map
+
+## Awards:
+Best use of open data
+
+## Team members:
+Giovanna Lemos Ribeiro & Benjamin Albert
