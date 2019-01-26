@@ -11,6 +11,9 @@ To calculate safety of a route, every point on the route is scored based on the 
 
 Data was acquired from https://catalog.data.gov/dataset/bpd-arrests-4f2eb and published by https://catalog.data.gov/dataset?publisher=data.baltimorecity.gov
 
+Awards:
+Best use of open data
+
 Team members:
 Giovanna Lemos Ribeiro & Benjamin Albert
 
